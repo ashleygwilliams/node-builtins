@@ -1,0 +1,8 @@
+[package]
+name = "node-builtins"
+description = "a list of Node.js built in modules"
+version = "0.1.0"
+authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
+license = "MIT"
+
+[dependencies]
